@@ -14,6 +14,12 @@ body{
     width: 500px;
     margin: 0 auto;
 }
+.colors{
+    margin-left: 35%;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+}
 button{
     font-size: 25px;
     width: 500px;
